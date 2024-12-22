@@ -1,4 +1,4 @@
-module qrphdecoder
+module github.com/alisterk/emvcoqrph
 
 go 1.23.2
 
