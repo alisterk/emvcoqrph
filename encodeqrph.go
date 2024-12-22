@@ -1,11 +1,5 @@
 package emvcoqrph
 
-import (
-// "errors"
-// "fmt"
-// "strconv"
-)
-
 const (
 	StaticPointOfInitiationMethod  = "11"
 	DynamicPointOfInitiationMethod = "12"
